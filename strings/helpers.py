@@ -66,7 +66,7 @@ HELP_3 = """✅<u>**Bot Komutları:**</u>
 
 /stats - En İyi 10 Parçayı Alın Global İstatistikler, Botun En İyi 10 Kullanıcısı, Botta En İyi 10 Sohbet, Sohbette Oynanan En İyi 10 vb..
 
-/sudolist - Yukki Music Bot'un Sudo Kullanıcılarını Kontrol Edin
+/sudolist - Myt Music Bot'un Sudo Kullanıcılarını Kontrol Edin
 
 /lyrics [Müzik Adı] - Web'de belirli bir Müziğin Sözlerini arar.
 
